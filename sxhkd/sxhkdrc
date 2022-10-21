@@ -215,14 +215,19 @@ ctrl + alt + a
 
 
 #Keyboard dependent
-#urxvt
+#alacritty
 #ctrl + alt + KP_Enter
-#     urxvt
+#     alacritty
 
 
 #################################################################
 # ALT + ... KEYS
 #################################################################
+
+#Lock screen
+alt + l
+    ~/.config/leftwm/themes/current/scripts/betterlock.sh
+
 
 #Wallpaper trash
 alt + t
@@ -391,7 +396,7 @@ super + y
 
 #Picom Toggle
 ctrl + alt + o
-    ~/.config/leftwm/scripts/picom-toggle.sh
+    ~/.config/leftwm/themes/current/scripts/picom-toggle.sh
 
 #################################################################
 # SUPER + KEYS
