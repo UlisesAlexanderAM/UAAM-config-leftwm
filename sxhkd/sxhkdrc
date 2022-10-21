@@ -44,7 +44,7 @@ super + F9
 
 #Spotify
 super + F10
-    spotify
+    spotify-launcher
 
 #Rofi Fullscreen
 super + F11
@@ -195,15 +195,15 @@ ctrl + alt + r
 
 #Spotify
 ctrl + alt + s
-   spotify
+   spotify-launcher
 
-#urxvt
+#alacritty
 ctrl + alt + Return
-    urxvt
+    alacritty
 
-#urxvt
+#alacritty
 ctrl + alt + t
-    urxvt
+    alacritty
 
 #Vivaldi
 ctrl + alt + v
