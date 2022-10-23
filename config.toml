@@ -9,7 +9,7 @@ workspaces = []
 tags = ["","","","","","","/","","/",""]
 #tags = ["www", "edit", "gimp", "inkscape", "meld", "video","vm", "files", "music"]
 
-layouts = ["MainAndVertStack", "MainAndHorizontalStack", "MainAndDeck", "GridHorizontal", "EvenHorizontal", "EvenVertical", "Fibonacci", "CenterMain", "CenterMainBalanced", "Monocle", "RightWiderLeftStack", "LeftWiderRightStack"]
+layouts = ["MainAndVertStack", "MainAndHorizontalStack", "Monocle", "MainAndDeck", "GridHorizontal", "EvenHorizontal", "EvenVertical", "Fibonacci", "CenterMain", "CenterMainBalanced", "RightWiderLeftStack", "LeftWiderRightStack"]
 scratchpad = []
 #[[scratchpad]]
 #name = "MainTerminal" # This is the name which is referenced when calling (case-sensitive)
